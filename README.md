@@ -113,11 +113,8 @@ This project is actively being developed in phases, starting with frontend imple
 ## 👩‍💻 Author
 
 **Aayushi Pandey**  
-Diploma in AI & ML | Aspiring Software & AI Engineer  
-
-GitHub: https://github.com/Aayushipandey54  
-LinkedIn: *(add your LinkedIn link)*
-
+B.E in Computer Engineering | Aspiring Software & AI Engineer  
+ 
 ---
 
 ## 📌 Note
