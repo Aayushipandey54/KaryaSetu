@@ -10,6 +10,12 @@ Karyasetu is a production-ready full-stack application for managing construction
 - **Orchestration**: Docker Compose + NGINX Gateway
 - **AI**: YOLOv8 (Detection) + LLM (Summaries)
 
+## Architecture Diagram
+
+<p align="center">
+  <img src="Karysetu%20architecture/architecture.png" alt="Karyasetu Architecture" width="800"/>
+</p>
+
 ## Getting Started
 
 ### Prerequisites
