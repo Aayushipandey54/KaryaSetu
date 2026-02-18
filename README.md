@@ -12,9 +12,12 @@ Karyasetu is a production-ready full-stack application for managing construction
 
 ## Architecture Diagram
 
+## Architecture Diagram
+
 <p align="center">
-  <img src="Karysetu%20architecture/architecture.png" alt="Karyasetu Architecture" width="800"/>
+  <img src="Karyasetu%20Architecture.png" alt="Karyasetu Architecture" width="900"/>
 </p>
+
 
 ## Getting Started
 
